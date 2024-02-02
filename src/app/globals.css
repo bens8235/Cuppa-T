@@ -1,0 +1,21 @@
+body {
+  background-color: bisque;
+  color: #82a2c9;
+}
+
+a {
+  color: #82a2c9;
+  text-decoration: none;
+}
+
+.username-bio {
+  display: flex;
+  gap: 1rem;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  width: 200px;
+}
